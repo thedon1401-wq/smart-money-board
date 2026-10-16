@@ -1,5 +1,5 @@
 {
- "generated": 1792131330,
+ "generated": 1792132502,
  "pool": 50,
  "min_pos": 500.0,
  "board": [
@@ -10,9 +10,9 @@
    "x": "",
    "pnl": 5102550.75605135,
    "vol": 51868928.45557602,
-   "open_value": 1181715.9244,
+   "open_value": 1181967.7726,
    "n_open": 34,
-   "last_trade": 1792129710,
+   "last_trade": 1792132404,
    "positions": [
     {
      "title": "Will Manchester City win the 2026-27 English Premier League (EPL) Championship?",
@@ -75,12 +75,12 @@
      "slug": "will-the-democratic-party-control-the-house-after-the-2026-midterm-elections",
      "eventSlug": "which-party-will-win-the-house-in-2026",
      "outcome": "No",
-     "size": 640889.7081,
-     "avgPrice": 0.0887,
+     "size": 643044.6531,
+     "avgPrice": 0.0888,
      "curPrice": 0.095,
-     "currentValue": 60884.5222,
-     "cashPnl": 3975.1627,
-     "percentPnl": 6.985,
+     "currentValue": 61089.242,
+     "cashPnl": 3986.5477,
+     "percentPnl": 6.9813,
      "endDate": "2026-11-04",
      "conditionId": "0xd5d9fc47718bd553592d126b1fa5e87183d27f3936975b0c04cc0f2dec1f1bb4"
     },
@@ -117,11 +117,11 @@
      "slug": "will-the-chicago-bears-win-the-2027-nfl-league-championship",
      "eventSlug": "pro-football-2027-champion-20260729185915366",
      "outcome": "No",
-     "size": 20495.9532,
+     "size": 20491.9432,
      "avgPrice": 0.931,
      "curPrice": 0.9655,
-     "currentValue": 19788.8428,
-     "cashPnl": 707.1103,
+     "currentValue": 19784.9712,
+     "cashPnl": 706.972,
      "percentPnl": 3.7056,
      "endDate": "2027-04-01",
      "conditionId": "0x87f0b061076a7309abeb719136246303ce17fe40b4e9c65aca4149bbdbdd3236"
@@ -145,12 +145,12 @@
      "slug": "2026-balance-of-power-r-senate-r-house-537",
      "eventSlug": "balance-of-power-2026-midterms",
      "outcome": "Yes",
-     "size": 211578.8793,
+     "size": 212178.8793,
      "avgPrice": 0.0799,
      "curPrice": 0.085,
-     "currentValue": 17984.2047,
-     "cashPnl": 1071.5657,
-     "percentPnl": 6.3358,
+     "currentValue": 18035.2047,
+     "cashPnl": 1074.6975,
+     "percentPnl": 6.3364,
      "endDate": "2026-11-04",
      "conditionId": "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b"
     },
@@ -247,7 +247,7 @@
    "vol": 2144333.4882350313,
    "open_value": 7233.5955,
    "n_open": 4,
-   "last_trade": 1792131091,
+   "last_trade": 1792132312,
    "positions": [
     {
      "title": "2026 Balance of Power: D Senate, D House",
@@ -564,21 +564,21 @@
    "x": "",
    "pnl": 1324087.885298057,
    "vol": 130942510.77453393,
-   "open_value": 228193.16090000002,
+   "open_value": 243495.1318,
    "n_open": 52,
-   "last_trade": 1792131318,
+   "last_trade": 1792132491,
    "positions": [
     {
      "title": "Wuhan Tennis Open: Elina Svitolina vs Sonay Kartal",
      "slug": "wta-svitoli-kartal-2026-10-16",
      "eventSlug": "wta-svitoli-kartal-2026-10-16",
      "outcome": "Elina Svitolina",
-     "size": 78944.295,
-     "avgPrice": 0.4657,
-     "curPrice": 0.52,
-     "currentValue": 41051.0334,
-     "cashPnl": 4282.0988,
-     "percentPnl": 11.6459,
+     "size": 87105.365,
+     "avgPrice": 0.4838,
+     "curPrice": 0.585,
+     "currentValue": 50956.6385,
+     "cashPnl": 8807.7307,
+     "percentPnl": 20.8966,
      "endDate": "2026-10-23",
      "conditionId": "0xd5f52155cd4caa160a679992c25179bc073a635b0f8bbc59827a921329ec3f7a"
     },
@@ -587,14 +587,28 @@
      "slug": "wta-svitoli-kartal-2026-10-16",
      "eventSlug": "wta-svitoli-kartal-2026-10-16",
      "outcome": "Sonay Kartal",
-     "size": 57344.1818,
-     "avgPrice": 0.657,
-     "curPrice": 0.48,
-     "currentValue": 27525.2072,
-     "cashPnl": -10153.44,
-     "percentPnl": -26.9474,
+     "size": 59116.9318,
+     "avgPrice": 0.6477,
+     "curPrice": 0.415,
+     "currentValue": 24533.5267,
+     "cashPnl": -13758.6896,
+     "percentPnl": -35.9307,
      "endDate": "2026-10-23",
      "conditionId": "0xd5f52155cd4caa160a679992c25179bc073a635b0f8bbc59827a921329ec3f7a"
+    },
+    {
+     "title": "Jinan: Shintaro Mochizuki vs Yosuke Watanuki",
+     "slug": "atp-mochizu-watanuk-2026-10-16",
+     "eventSlug": "atp-mochizu-watanuk-2026-10-16",
+     "outcome": "Shintaro Mochizuki",
+     "size": 21935.8384,
+     "avgPrice": 0.5167,
+     "curPrice": 0.88,
+     "currentValue": 19303.5378,
+     "cashPnl": 7968.4219,
+     "percentPnl": 70.2985,
+     "endDate": "2026-10-23",
+     "conditionId": "0xc3875d33039fb97273b9e32766d04374f6acd84be9b5f0fb01ba2145154457e0"
     },
     {
      "title": "Rayo Vallecano de Madrid vs. Athletic Club: O/U 2.5",
@@ -639,20 +653,6 @@
      "conditionId": "0x46991c8a2b6494ac93efb82d0a98096746eb822213d9489b6c5bf75358687f68"
     },
     {
-     "title": "Jinan: Shintaro Mochizuki vs Yosuke Watanuki",
-     "slug": "atp-mochizu-watanuk-2026-10-16",
-     "eventSlug": "atp-mochizu-watanuk-2026-10-16",
-     "outcome": "Shintaro Mochizuki",
-     "size": 15224.2,
-     "avgPrice": 0.4053,
-     "curPrice": 0.865,
-     "currentValue": 13168.933,
-     "cashPnl": 6998.5125,
-     "percentPnl": 113.4203,
-     "endDate": "2026-10-23",
-     "conditionId": "0xc3875d33039fb97273b9e32766d04374f6acd84be9b5f0fb01ba2145154457e0"
-    },
-    {
      "title": "Will Levante UD win on 2026-09-16?",
      "slug": "lal-lev-bil-2026-09-16-lev",
      "eventSlug": "lal-lev-bil-2026-09-16",
@@ -673,10 +673,10 @@
      "outcome": "Ane Mintegi Del Olmo",
      "size": 13657.6608,
      "avgPrice": 0.5027,
-     "curPrice": 0.577,
-     "currentValue": 7880.4703,
-     "cashPnl": 1014.4512,
-     "percentPnl": 14.7749,
+     "curPrice": 0.5805,
+     "currentValue": 7928.2721,
+     "cashPnl": 1062.253,
+     "percentPnl": 15.4711,
      "endDate": "2026-10-22",
      "conditionId": "0x5c8c4fd23582a3658de1f3b3224bcca4d54edb0144f2ffc05b7277d307746a0e"
     },
@@ -687,10 +687,10 @@
      "outcome": "Rebeka Masarova",
      "size": 17299.6109,
      "avgPrice": 0.625,
-     "curPrice": 0.423,
-     "currentValue": 7317.7354,
-     "cashPnl": -3495.1312,
-     "percentPnl": -32.3238,
+     "curPrice": 0.4195,
+     "currentValue": 7257.1867,
+     "cashPnl": -3555.6799,
+     "percentPnl": -32.8837,
      "endDate": "2026-10-22",
      "conditionId": "0x5c8c4fd23582a3658de1f3b3224bcca4d54edb0144f2ffc05b7277d307746a0e"
     },
@@ -709,6 +709,20 @@
      "conditionId": "0x9436ee87d591f1e5f1ec40661679c462e642aba82fcf00d871e2a848f5136579"
     },
     {
+     "title": "Jinan: Shintaro Mochizuki vs Yosuke Watanuki",
+     "slug": "atp-mochizu-watanuk-2026-10-16",
+     "eventSlug": "atp-mochizu-watanuk-2026-10-16",
+     "outcome": "Yosuke Watanuki",
+     "size": 48166.5162,
+     "avgPrice": 0.4504,
+     "curPrice": 0.12,
+     "currentValue": 5779.9819,
+     "cashPnl": -15916.0573,
+     "percentPnl": -73.3592,
+     "endDate": "2026-10-23",
+     "conditionId": "0xc3875d33039fb97273b9e32766d04374f6acd84be9b5f0fb01ba2145154457e0"
+    },
+    {
      "title": "Rayo Vallecano de Madrid leading at halftime?",
      "slug": "lal-ray-bil-2026-10-10-halftime-result-home",
      "eventSlug": "lal-ray-bil-2026-10-10-halftime-result",
@@ -721,20 +735,6 @@
      "percentPnl": -9.542,
      "endDate": "2026-10-10",
      "conditionId": "0x018c51c3a0d4b0fc33dfdee4c32b3f480522bcbf075a022b0efbcab8b1998cb2"
-    },
-    {
-     "title": "Jinan: Shintaro Mochizuki vs Yosuke Watanuki",
-     "slug": "atp-mochizu-watanuk-2026-10-16",
-     "eventSlug": "atp-mochizu-watanuk-2026-10-16",
-     "outcome": "Yosuke Watanuki",
-     "size": 40149.39,
-     "avgPrice": 0.4935,
-     "curPrice": 0.135,
-     "currentValue": 5420.1676,
-     "cashPnl": -14393.6641,
-     "percentPnl": -72.6445,
-     "endDate": "2026-10-23",
-     "conditionId": "0xc3875d33039fb97273b9e32766d04374f6acd84be9b5f0fb01ba2145154457e0"
     },
     {
      "title": "Rayo Vallecano de Madrid vs. Athletic Club: 1st Half O/U 1.5",
@@ -751,32 +751,32 @@
      "conditionId": "0xd2c63ff48b004b1b4ff8b7da99945157018fb84a8845970290355ee746f57a5c"
     },
     {
+     "title": "Jinan: Tomas Machac vs Liam Draxl",
+     "slug": "atp-machac-draxl-2026-10-16",
+     "eventSlug": "atp-machac-draxl-2026-10-16",
+     "outcome": "Liam Draxl",
+     "size": 7948.32,
+     "avgPrice": 0.4714,
+     "curPrice": 0.535,
+     "currentValue": 4252.3512,
+     "cashPnl": 504.9466,
+     "percentPnl": 13.4745,
+     "endDate": "2026-10-23",
+     "conditionId": "0x8c88fc23c51b5eab59f480ddb3ea8b53d7e56ebed20682aeab8da657e2b29cc6"
+    },
+    {
      "title": "Eintracht Frankfurt vs. 1. FC K\u00f6ln: O/U 3.5",
      "slug": "bun-ein-koe-2026-10-16-total-3pt5",
      "eventSlug": "bun-ein-koe-2026-10-16-more-markets",
      "outcome": "Under",
-     "size": 8996,
-     "avgPrice": 0.47,
+     "size": 9015,
+     "avgPrice": 0.4699,
      "curPrice": 0.465,
-     "currentValue": 4183.14,
-     "cashPnl": -44.98,
-     "percentPnl": -1.0638,
+     "currentValue": 4191.975,
+     "cashPnl": -45.0659,
+     "percentPnl": -1.0636,
      "endDate": "2026-10-16",
      "conditionId": "0xc26899c9119faf973115e09a262c805c7280bdaf0ecc4e84041ee24473c98d43"
-    },
-    {
-     "title": "Will Rayo Vallecano de Madrid vs. Athletic Club end in a draw?",
-     "slug": "lal-ray-bil-2026-10-10-draw",
-     "eventSlug": "lal-ray-bil-2026-10-10",
-     "outcome": "Yes",
-     "size": 10023.05,
-     "avgPrice": 0.3,
-     "curPrice": 0.335,
-     "currentValue": 3357.7217,
-     "cashPnl": 349.8926,
-     "percentPnl": 11.6327,
-     "endDate": "2026-10-10",
-     "conditionId": "0x5a5587793833810ba3e06d42174c0adfacf00c63037a2a10a487096b8c206eaf"
     }
    ]
   },
@@ -789,7 +789,7 @@
    "vol": 13555.172033999997,
    "open_value": 0,
    "n_open": 0,
-   "last_trade": 1792131310,
+   "last_trade": 1792132206,
    "positions": []
   },
   {
@@ -799,9 +799,9 @@
    "x": "",
    "pnl": 1105423.894962274,
    "vol": 114610543.06033514,
-   "open_value": 237249.0988,
+   "open_value": 246093.0319,
    "n_open": 81,
-   "last_trade": 1792131265,
+   "last_trade": 1792132303,
    "positions": [
     {
      "title": "Spread: James Madison (-12.5)",
@@ -821,13 +821,27 @@
      "title": "Wuhan Tennis Open: Elina Svitolina vs Sonay Kartal",
      "slug": "wta-svitoli-kartal-2026-10-16",
      "eventSlug": "wta-svitoli-kartal-2026-10-16",
+     "outcome": "Elina Svitolina",
+     "size": 31979.9107,
+     "avgPrice": 0.4843,
+     "curPrice": 0.585,
+     "currentValue": 18708.2478,
+     "cashPnl": 3217.8276,
+     "percentPnl": 20.773,
+     "endDate": "2026-10-23",
+     "conditionId": "0xd5f52155cd4caa160a679992c25179bc073a635b0f8bbc59827a921329ec3f7a"
+    },
+    {
+     "title": "Wuhan Tennis Open: Elina Svitolina vs Sonay Kartal",
+     "slug": "wta-svitoli-kartal-2026-10-16",
+     "eventSlug": "wta-svitoli-kartal-2026-10-16",
      "outcome": "Sonay Kartal",
-     "size": 34352.0518,
-     "avgPrice": 0.4762,
-     "curPrice": 0.49,
-     "currentValue": 16832.5054,
-     "cashPnl": 471.5151,
-     "percentPnl": 2.8819,
+     "size": 39038.6128,
+     "avgPrice": 0.4612,
+     "curPrice": 0.415,
+     "currentValue": 16201.0243,
+     "cashPnl": -1806.4168,
+     "percentPnl": -10.0315,
      "endDate": "2026-10-23",
      "conditionId": "0xd5f52155cd4caa160a679992c25179bc073a635b0f8bbc59827a921329ec3f7a"
     },
@@ -866,26 +880,12 @@
      "outcome": "Ane Mintegi Del Olmo",
      "size": 15835.5519,
      "avgPrice": 0.1864,
-     "curPrice": 0.577,
-     "currentValue": 9137.1134,
-     "cashPnl": 6185.1187,
-     "percentPnl": 209.5233,
+     "curPrice": 0.5805,
+     "currentValue": 9192.5378,
+     "cashPnl": 6240.5431,
+     "percentPnl": 211.4008,
      "endDate": "2026-10-22",
      "conditionId": "0x5c8c4fd23582a3658de1f3b3224bcca4d54edb0144f2ffc05b7277d307746a0e"
-    },
-    {
-     "title": "Wuhan Tennis Open: Elina Svitolina vs Sonay Kartal",
-     "slug": "wta-svitoli-kartal-2026-10-16",
-     "eventSlug": "wta-svitoli-kartal-2026-10-16",
-     "outcome": "Elina Svitolina",
-     "size": 17331.5463,
-     "avgPrice": 0.4283,
-     "curPrice": 0.51,
-     "currentValue": 8839.0886,
-     "cashPnl": 1414.9868,
-     "percentPnl": 19.0593,
-     "endDate": "2026-10-23",
-     "conditionId": "0xd5f52155cd4caa160a679992c25179bc073a635b0f8bbc59827a921329ec3f7a"
     },
     {
      "title": "Commanders vs. 49ers: O/U 50.5",
@@ -908,10 +908,10 @@
      "outcome": "Rebeka Masarova",
      "size": 15170.7459,
      "avgPrice": 0.865,
-     "curPrice": 0.423,
-     "currentValue": 6417.2255,
-     "cashPnl": -6706.3735,
-     "percentPnl": -51.1016,
+     "curPrice": 0.4195,
+     "currentValue": 6364.1279,
+     "cashPnl": -6759.4711,
+     "percentPnl": -51.5062,
      "endDate": "2026-10-22",
      "conditionId": "0x5c8c4fd23582a3658de1f3b3224bcca4d54edb0144f2ffc05b7277d307746a0e"
     },
@@ -1049,7 +1049,7 @@
    "x": "",
    "pnl": 993613.5153342832,
    "vol": 29094433.912475996,
-   "open_value": 42172.7128,
+   "open_value": 38935.8392,
    "n_open": 3,
    "last_trade": 1792131067,
    "positions": [
@@ -1060,10 +1060,10 @@
      "outcome": "Team Vitality",
      "size": 64737.4728,
      "avgPrice": 0.4399,
-     "curPrice": 0.605,
-     "currentValue": 39166.171,
-     "cashPnl": 10684.0728,
-     "percentPnl": 37.5115,
+     "curPrice": 0.555,
+     "currentValue": 35929.2974,
+     "cashPnl": 7447.1992,
+     "percentPnl": 26.1469,
      "endDate": "2026-10-16",
      "conditionId": "0x05ebb1c772ac18b5c4b2270e3d5551ee0d8e88010291817d333acbca60d928b0"
     },
@@ -1104,9 +1104,9 @@
    "x": "",
    "pnl": 956455.4576112664,
    "vol": 34582247.580767974,
-   "open_value": 62897.3514,
-   "n_open": 33,
-   "last_trade": 1792131072,
+   "open_value": 67296.4752,
+   "n_open": 34,
+   "last_trade": 1792132444,
    "positions": [
     {
      "title": "Wuhan Tennis Open: Elina Svitolina vs Sonay Kartal",
@@ -1115,10 +1115,10 @@
      "outcome": "Elina Svitolina",
      "size": 23793.4169,
      "avgPrice": 0.5518,
-     "curPrice": 0.52,
-     "currentValue": 12372.5768,
-     "cashPnl": -758.007,
-     "percentPnl": -5.7728,
+     "curPrice": 0.585,
+     "currentValue": 13919.1489,
+     "cashPnl": 788.565,
+     "percentPnl": 6.0055,
      "endDate": "2026-10-23",
      "conditionId": "0xd5f52155cd4caa160a679992c25179bc073a635b0f8bbc59827a921329ec3f7a"
     },
@@ -1129,26 +1129,12 @@
      "outcome": "LOUD",
      "size": 20584.2175,
      "avgPrice": 0.55,
-     "curPrice": 0.395,
-     "currentValue": 8130.7659,
-     "cashPnl": -3192.4384,
-     "percentPnl": -28.1937,
+     "curPrice": 0.445,
+     "currentValue": 9159.9768,
+     "cashPnl": -2163.2275,
+     "percentPnl": -19.1043,
      "endDate": "2026-10-16",
      "conditionId": "0x05ebb1c772ac18b5c4b2270e3d5551ee0d8e88010291817d333acbca60d928b0"
-    },
-    {
-     "title": "Jinan: Tomas Machac vs Liam Draxl",
-     "slug": "atp-machac-draxl-2026-10-16",
-     "eventSlug": "atp-machac-draxl-2026-10-16",
-     "outcome": "Tomas Machac",
-     "size": 5578.14,
-     "avgPrice": 0.5399,
-     "curPrice": 0.695,
-     "currentValue": 3876.8073,
-     "cashPnl": 864.6172,
-     "percentPnl": 28.7039,
-     "endDate": "2026-10-23",
-     "conditionId": "0x8c88fc23c51b5eab59f480ddb3ea8b53d7e56ebed20682aeab8da657e2b29cc6"
     },
     {
      "title": "Spread: FC Barcelona (-1.5)",
@@ -1165,18 +1151,18 @@
      "conditionId": "0x3efc1d16adfa63f30983f7f43e7309aac01b8529fe130c9ac187e4da0a6e5388"
     },
     {
-     "title": "Mallorca: Ane Mintegi Del Olmo vs Rebeka Masarova",
-     "slug": "wta-olmo-masarov-2026-10-15",
-     "eventSlug": "wta-olmo-masarov-2026-10-15",
-     "outcome": "Rebeka Masarova",
-     "size": 6289.2412,
-     "avgPrice": 0.4457,
-     "curPrice": 0.423,
-     "currentValue": 2660.349,
-     "cashPnl": -143.0917,
-     "percentPnl": -5.1041,
-     "endDate": "2026-10-22",
-     "conditionId": "0x5c8c4fd23582a3658de1f3b3224bcca4d54edb0144f2ffc05b7277d307746a0e"
+     "title": "Jinan: Tomas Machac vs Liam Draxl",
+     "slug": "atp-machac-draxl-2026-10-16",
+     "eventSlug": "atp-machac-draxl-2026-10-16",
+     "outcome": "Liam Draxl",
+     "size": 5400.5,
+     "avgPrice": 0.54,
+     "curPrice": 0.535,
+     "currentValue": 2889.2675,
+     "cashPnl": -27.4473,
+     "percentPnl": -0.941,
+     "endDate": "2026-10-23",
+     "conditionId": "0x8c88fc23c51b5eab59f480ddb3ea8b53d7e56ebed20682aeab8da657e2b29cc6"
     },
     {
      "title": "Kraken vs. Panthers",
@@ -1191,6 +1177,34 @@
      "percentPnl": -3.1013,
      "endDate": "2026-10-17",
      "conditionId": "0x2941fb39095cd9aef718bd984e22d3933de9de27e7c41c6bd2bd44853342a316"
+    },
+    {
+     "title": "Mallorca: Ane Mintegi Del Olmo vs Rebeka Masarova",
+     "slug": "wta-olmo-masarov-2026-10-15",
+     "eventSlug": "wta-olmo-masarov-2026-10-15",
+     "outcome": "Rebeka Masarova",
+     "size": 6289.2412,
+     "avgPrice": 0.4457,
+     "curPrice": 0.4195,
+     "currentValue": 2638.3367,
+     "cashPnl": -165.104,
+     "percentPnl": -5.8893,
+     "endDate": "2026-10-22",
+     "conditionId": "0x5c8c4fd23582a3658de1f3b3224bcca4d54edb0144f2ffc05b7277d307746a0e"
+    },
+    {
+     "title": "Jinan: Tomas Machac vs Liam Draxl",
+     "slug": "atp-machac-draxl-2026-10-16",
+     "eventSlug": "atp-machac-draxl-2026-10-16",
+     "outcome": "Tomas Machac",
+     "size": 5578.14,
+     "avgPrice": 0.5399,
+     "curPrice": 0.465,
+     "currentValue": 2593.8351,
+     "cashPnl": -418.3549,
+     "percentPnl": -13.8887,
+     "endDate": "2026-10-23",
+     "conditionId": "0x8c88fc23c51b5eab59f480ddb3ea8b53d7e56ebed20682aeab8da657e2b29cc6"
     },
     {
      "title": "Counter-Strike: Astralis vs MIBR (BO3) - Stake Pulse Beat III Playoffs",
@@ -1213,26 +1227,26 @@
      "outcome": "Valentin Gonzalez-Galino",
      "size": 2756.8184,
      "avgPrice": 0.5796,
-     "curPrice": 0.88,
-     "currentValue": 2426.0002,
-     "cashPnl": 828.131,
-     "percentPnl": 51.8272,
+     "curPrice": 0.885,
+     "currentValue": 2439.7843,
+     "cashPnl": 841.9151,
+     "percentPnl": 52.6898,
      "endDate": "2026-10-21",
      "conditionId": "0x804c562c2d7a1f6248a8238184961b4cdd70df87d231ebc3d52ef67693ffdcf3"
     },
     {
-     "title": "Wuhan Tennis Open: Elina Svitolina vs Sonay Kartal",
-     "slug": "wta-svitoli-kartal-2026-10-16",
-     "eventSlug": "wta-svitoli-kartal-2026-10-16",
-     "outcome": "Sonay Kartal",
-     "size": 4306.8201,
-     "avgPrice": 0.6522,
-     "curPrice": 0.48,
-     "currentValue": 2067.2736,
-     "cashPnl": -741.8004,
-     "percentPnl": -26.4072,
+     "title": "Jinan: Shintaro Mochizuki vs Yosuke Watanuki",
+     "slug": "atp-mochizu-watanuk-2026-10-16",
+     "eventSlug": "atp-mochizu-watanuk-2026-10-16",
+     "outcome": "Shintaro Mochizuki",
+     "size": 2628.3932,
+     "avgPrice": 0.537,
+     "curPrice": 0.88,
+     "currentValue": 2312.986,
+     "cashPnl": 901.3659,
+     "percentPnl": 63.8532,
      "endDate": "2026-10-23",
-     "conditionId": "0xd5f52155cd4caa160a679992c25179bc073a635b0f8bbc59827a921329ec3f7a"
+     "conditionId": "0xc3875d33039fb97273b9e32766d04374f6acd84be9b5f0fb01ba2145154457e0"
     },
     {
      "title": "Will RC Deportivo A Coru\u00f1a win on 2026-10-16?",
@@ -1249,6 +1263,20 @@
      "conditionId": "0x6b5f884853e752a675cd2077399db7852b5f16a57e1f0ff81bd0b5173803e506"
     },
     {
+     "title": "Wuhan Tennis Open: Elina Svitolina vs Sonay Kartal",
+     "slug": "wta-svitoli-kartal-2026-10-16",
+     "eventSlug": "wta-svitoli-kartal-2026-10-16",
+     "outcome": "Sonay Kartal",
+     "size": 4306.8201,
+     "avgPrice": 0.6522,
+     "curPrice": 0.415,
+     "currentValue": 1787.3303,
+     "cashPnl": -1021.7437,
+     "percentPnl": -36.3729,
+     "endDate": "2026-10-23",
+     "conditionId": "0xd5f52155cd4caa160a679992c25179bc073a635b0f8bbc59827a921329ec3f7a"
+    },
+    {
      "title": "Real Madrid CF vs. Sevilla FC: O/U 3.5",
      "slug": "lal-rea-sev-2026-10-18-total-3pt5",
      "eventSlug": "lal-rea-sev-2026-10-18-more-markets",
@@ -1261,20 +1289,6 @@
      "percentPnl": 0.1729,
      "endDate": "2026-10-18",
      "conditionId": "0xf0e41082c494d4fccafbd26680d3d59beb2b4bc4efc85f2805645119abac08a5"
-    },
-    {
-     "title": "Jinan: Tomas Machac vs Liam Draxl",
-     "slug": "atp-machac-draxl-2026-10-16",
-     "eventSlug": "atp-machac-draxl-2026-10-16",
-     "outcome": "Liam Draxl",
-     "size": 5400.5,
-     "avgPrice": 0.54,
-     "curPrice": 0.305,
-     "currentValue": 1647.1525,
-     "cashPnl": -1269.5623,
-     "percentPnl": -43.5271,
-     "endDate": "2026-10-23",
-     "conditionId": "0x8c88fc23c51b5eab59f480ddb3ea8b53d7e56ebed20682aeab8da657e2b29cc6"
     },
     {
      "title": "Rayo Vallecano de Madrid vs. Athletic Club: O/U 2.5",
@@ -1303,20 +1317,6 @@
      "percentPnl": 1.6078,
      "endDate": "2026-10-17",
      "conditionId": "0xb49ac312d099f2d9fc346df31a0fc1b086fb015f1ba279b07b9b57b86d32c4e8"
-    },
-    {
-     "title": "Will 1. FC N\u00fcrnberg win on 2026-10-16?",
-     "slug": "bl2-fce-fcn-2026-10-16-fcn",
-     "eventSlug": "bl2-fce-fcn-2026-10-16",
-     "outcome": "Yes",
-     "size": 2218.4102,
-     "avgPrice": 0.4992,
-     "curPrice": 0.535,
-     "currentValue": 1186.8494,
-     "cashPnl": 79.2368,
-     "percentPnl": 7.1538,
-     "endDate": "2026-10-16",
-     "conditionId": "0x6549207731e692ce4ca9668bb4098f66d8c89e851e5a0eed10fd582e5a58f4d3"
     }
    ]
   },
@@ -1378,10 +1378,24 @@
    "x": "",
    "pnl": 729314.6732014847,
    "vol": 22807054.746962007,
-   "open_value": 14887.4719,
+   "open_value": 15387.4704,
    "n_open": 5,
    "last_trade": 1792126458,
    "positions": [
+    {
+     "title": "Valorant: Team Vitality vs LOUD (BO3) - VCT Champions Playoffs",
+     "slug": "val-vit-loud-2026-10-16",
+     "eventSlug": "val-vit-loud-2026-10-16",
+     "outcome": "LOUD",
+     "size": 9999.969,
+     "avgPrice": 0.56,
+     "curPrice": 0.445,
+     "currentValue": 4449.9862,
+     "cashPnl": -1149.9964,
+     "percentPnl": -20.5357,
+     "endDate": "2026-10-16",
+     "conditionId": "0x05ebb1c772ac18b5c4b2270e3d5551ee0d8e88010291817d333acbca60d928b0"
+    },
     {
      "title": "Will a team from LCK (South Korea) win LoL Worlds 2026?",
      "slug": "will-a-team-from-lck-south-korea-win-lol-worlds-2026-115",
@@ -1395,20 +1409,6 @@
      "percentPnl": 0.7352,
      "endDate": "2027-01-01",
      "conditionId": "0xbfc776a7f419fdc9bec5f026cb6bd115db75e22664f5d99873e4c330676015f8"
-    },
-    {
-     "title": "Valorant: Team Vitality vs LOUD (BO3) - VCT Champions Playoffs",
-     "slug": "val-vit-loud-2026-10-16",
-     "eventSlug": "val-vit-loud-2026-10-16",
-     "outcome": "LOUD",
-     "size": 9999.969,
-     "avgPrice": 0.56,
-     "curPrice": 0.395,
-     "currentValue": 3949.9877,
-     "cashPnl": -1649.9949,
-     "percentPnl": -29.4642,
-     "endDate": "2026-10-16",
-     "conditionId": "0x05ebb1c772ac18b5c4b2270e3d5551ee0d8e88010291817d333acbca60d928b0"
     },
     {
      "title": "Spread: Oklahoma (-6.5)",
@@ -1461,9 +1461,9 @@
    "x": "",
    "pnl": 721476.1007528162,
    "vol": 5796819.203062003,
-   "open_value": 1389332.5744,
-   "n_open": 156,
-   "last_trade": 1792131286,
+   "open_value": 1393228.528,
+   "n_open": 157,
+   "last_trade": 1792132398,
    "positions": [
     {
      "title": "US announces end of Iranian blockade by October 31, 2026?",
@@ -1498,12 +1498,12 @@
      "slug": "us-x-iran-ceasefire-continues-through-october-31-20260917",
      "eventSlug": "us-iran-ceasefire-continues-throughptptpt",
      "outcome": "Yes",
-     "size": 77683.4324,
+     "size": 77685.9924,
      "avgPrice": 0.7699,
-     "curPrice": 0.785,
-     "currentValue": 60981.4944,
-     "cashPnl": 1172.709,
-     "percentPnl": 1.9607,
+     "curPrice": 0.8,
+     "currentValue": 62148.7939,
+     "cashPnl": 2338.0375,
+     "percentPnl": 3.909,
      "endDate": "2026-10-31",
      "conditionId": "0x3738ad9665480991affe3ba286cd035516e17d1f8b7703e05088ec19c70c21a4"
     },
@@ -1598,10 +1598,10 @@
      "outcome": "No",
      "size": 31966.9122,
      "avgPrice": 0.8289,
-     "curPrice": 0.9585,
-     "currentValue": 30640.2853,
-     "cashPnl": 4140.2265,
-     "percentPnl": 15.6234,
+     "curPrice": 0.9575,
+     "currentValue": 30608.3184,
+     "cashPnl": 4108.2596,
+     "percentPnl": 15.5028,
      "endDate": "2026-11-01",
      "conditionId": "0x0045c740dca2243373ebedfac538512cd9b887b1830f80933d7e329e0f2c7a81"
     },
@@ -1610,12 +1610,12 @@
      "slug": "tyler-robinson-convicted-of-homicide",
      "eventSlug": "tyler-robinson-convicted-of-homicide",
      "outcome": "No",
-     "size": 40311.2092,
+     "size": 40315.9692,
      "avgPrice": 0.6147,
      "curPrice": 0.695,
-     "currentValue": 28016.2904,
-     "cashPnl": 3233.9263,
-     "percentPnl": 13.0493,
+     "currentValue": 28019.5986,
+     "cashPnl": 3233.9857,
+     "percentPnl": 13.0478,
      "endDate": "2027-08-01",
      "conditionId": "0xdfea8851512360fb70c4b4ed29ed369b6dbcdfc58b2493b66cba65faab622129"
     },
@@ -1640,10 +1640,10 @@
      "outcome": "No",
      "size": 38862.2265,
      "avgPrice": 0.4455,
-     "curPrice": 0.715,
-     "currentValue": 27786.4919,
-     "cashPnl": 10469.7126,
-     "percentPnl": 60.4599,
+     "curPrice": 0.71,
+     "currentValue": 27592.1808,
+     "cashPnl": 10275.4015,
+     "percentPnl": 59.3378,
      "endDate": "2026-10-31",
      "conditionId": "0x8091d617a6b1a70847d357f59b7d1d303b7599d376ba92729705e233b3716940"
     },
@@ -1666,11 +1666,11 @@
      "slug": "kanye-west-performs-in-russia-by-october-31",
      "eventSlug": "kanye-west-performs-in-russia-by-october-31",
      "outcome": "No",
-     "size": 24855.0928,
+     "size": 24536.0928,
      "avgPrice": 0.702,
      "curPrice": 0.987,
-     "currentValue": 24531.9766,
-     "cashPnl": 7081.7626,
+     "currentValue": 24217.1236,
+     "cashPnl": 6990.8725,
      "percentPnl": 40.5826,
      "endDate": "2026-11-01",
      "conditionId": "0xfd155fdd279dc1f5aaa451285a2f98777fcf7d37719d630aa7918472e5d57ce2"
@@ -1698,7 +1698,7 @@
    "vol": 5050447.0064680055,
    "open_value": 1880.3942,
    "n_open": 3,
-   "last_trade": 1792131202,
+   "last_trade": 1792132374,
    "positions": [
     {
      "title": "Will Madrid host the final of the 2030 FIFA World Cup?",
@@ -1858,8 +1858,8 @@
    "x": "",
    "pnl": 521163.17848721426,
    "vol": 1497325.76222,
-   "open_value": 1747051.3843999999,
-   "n_open": 48,
+   "open_value": 1747488.2414,
+   "n_open": 49,
    "last_trade": 1792114674,
    "positions": [
     {
@@ -2461,9 +2461,9 @@
    "x": "",
    "pnl": 391201.2866566135,
    "vol": 5089920.914068994,
-   "open_value": 80342.4292,
+   "open_value": 80390.4084,
    "n_open": 64,
-   "last_trade": 1792131310,
+   "last_trade": 1792131949,
    "positions": [
     {
      "title": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
@@ -2486,10 +2486,10 @@
      "outcome": "No",
      "size": 4999.9905,
      "avgPrice": 0.7029,
-     "curPrice": 0.6425,
-     "currentValue": 3212.4939,
-     "cashPnl": -302.1418,
-     "percentPnl": -8.5966,
+     "curPrice": 0.642,
+     "currentValue": 3209.9939,
+     "cashPnl": -304.6418,
+     "percentPnl": -8.6678,
      "endDate": "2026-11-29",
      "conditionId": "0x910aabbfae28b3569929c31fb5461f4db13f7ddd427bdee1e696d313125838e3"
     },
@@ -2542,10 +2542,10 @@
      "outcome": "No",
      "size": 3529.9038,
      "avgPrice": 0.7347,
-     "curPrice": 0.7105,
-     "currentValue": 2507.9967,
-     "cashPnl": -85.5295,
-     "percentPnl": -3.2978,
+     "curPrice": 0.711,
+     "currentValue": 2509.7616,
+     "cashPnl": -83.7646,
+     "percentPnl": -3.2297,
      "endDate": "2026-11-29",
      "conditionId": "0xea3b1d0099085f43a3098b3e1fbcbe62284ce1bda99384b3d46b82ff202ac016"
     },
@@ -2584,10 +2584,10 @@
      "outcome": "Yes",
      "size": 2493.5451,
      "avgPrice": 0.0312,
-     "curPrice": 0.9735,
-     "currentValue": 2427.4662,
-     "cashPnl": 2349.5478,
-     "percentPnl": 3015.3991,
+     "curPrice": 0.974,
+     "currentValue": 2428.713,
+     "cashPnl": 2350.7946,
+     "percentPnl": 3016.9993,
      "endDate": "2026-12-06",
      "conditionId": "0xcd2640464754b9a894ffec98ac11554fdd507ea89ca01237eabb3a6de4a606e6"
     },
@@ -2626,10 +2626,10 @@
      "outcome": "No",
      "size": 4583.7804,
      "avgPrice": 0.4934,
-     "curPrice": 0.465,
-     "currentValue": 2131.4579,
-     "cashPnl": -130.5592,
-     "percentPnl": -5.7718,
+     "curPrice": 0.475,
+     "currentValue": 2177.2957,
+     "cashPnl": -84.7214,
+     "percentPnl": -3.7453,
      "endDate": "2026-11-04",
      "conditionId": "0x707eb5c6df23e32e0b770dd0ccd1245abb7fac0dcfd24d8b68dd99e5ca737180"
     },
@@ -3067,7 +3067,7 @@
    "x": "",
    "pnl": 259572.94224333548,
    "vol": 4727145.574483002,
-   "open_value": 289211.4395,
+   "open_value": 289164.1748,
    "n_open": 10,
    "last_trade": 1792124256,
    "positions": [
@@ -3092,10 +3092,10 @@
      "outcome": "No",
      "size": 50000.7183,
      "avgPrice": 0.9519,
-     "curPrice": 0.9655,
-     "currentValue": 48275.6935,
-     "cashPnl": 675.2184,
-     "percentPnl": 1.4185,
+     "curPrice": 0.9645,
+     "currentValue": 48225.6928,
+     "cashPnl": 625.2177,
+     "percentPnl": 1.3134,
      "endDate": "2027-01-01",
      "conditionId": "0x885a6abefad122348b4fbd503473d7fd1f9035d0438cf988a7591620f316a859"
     },
@@ -3190,10 +3190,10 @@
      "outcome": "No",
      "size": 5472.0495,
      "avgPrice": 0.807,
-     "curPrice": 0.827,
-     "currentValue": 4525.385,
-     "cashPnl": 109.4409,
-     "percentPnl": 2.4783,
+     "curPrice": 0.8275,
+     "currentValue": 4528.121,
+     "cashPnl": 112.1769,
+     "percentPnl": 2.5402,
      "endDate": "2026-09-14",
      "conditionId": "0x8a42bb4cb9b9f157b539611f6a8c122388f652570cfc3c07d538e7df2bb78894"
     },
@@ -3220,7 +3220,7 @@
    "x": "aenews",
    "pnl": 256314.6968078431,
    "vol": 4618587.001626,
-   "open_value": 636763.3019,
+   "open_value": 636735.7685,
    "n_open": 25,
    "last_trade": 1792129935,
    "positions": [
@@ -3301,10 +3301,10 @@
      "outcome": "Yes",
      "size": 14221.63,
      "avgPrice": 0.7324,
-     "curPrice": 0.976,
-     "currentValue": 13880.3108,
-     "cashPnl": 3463.9338,
-     "percentPnl": 33.2546,
+     "curPrice": 0.974,
+     "currentValue": 13851.8676,
+     "cashPnl": 3435.4906,
+     "percentPnl": 32.9816,
      "endDate": "2026-10-17",
      "conditionId": "0xaa8749bc53dc320c5a4995206526e5a2f7ddf36fbe8598144c7c33ef88ec4144"
     },
@@ -3443,9 +3443,9 @@
    "x": "",
    "pnl": 250488.03884251445,
    "vol": 9202960.113319999,
-   "open_value": 1391.0011,
+   "open_value": 1371.4634,
    "n_open": 2,
-   "last_trade": 1792131316,
+   "last_trade": 1792132450,
    "positions": [
     {
      "title": "Another Vatican x Anthropic meeting by December 31?",
@@ -3468,10 +3468,10 @@
      "outcome": "No",
      "size": 1302.51,
      "avgPrice": 0.2722,
-     "curPrice": 0.52,
-     "currentValue": 677.3052,
-     "cashPnl": 322.6775,
-     "percentPnl": 90.9905,
+     "curPrice": 0.505,
+     "currentValue": 657.7675,
+     "cashPnl": 303.1398,
+     "percentPnl": 85.4811,
      "endDate": "2028-01-01",
      "conditionId": "0x56488d5ad51d0fc25a353d0b1b76ab6ec5d9304f80354c0122fea8f4bfb9988a"
     }
@@ -3508,24 +3508,10 @@
    "x": "",
    "pnl": 240793.22217843484,
    "vol": 6938257.037778002,
-   "open_value": 43669.0651,
+   "open_value": 43469.0655,
    "n_open": 6,
    "last_trade": 1792130277,
    "positions": [
-    {
-     "title": "Wuhan Tennis Open: Maja Chwalinska vs Maria Sakkari",
-     "slug": "wta-chwalin-sakkari-2026-10-15",
-     "eventSlug": "wta-chwalin-sakkari-2026-10-15",
-     "outcome": "Maria Sakkari",
-     "size": 19999.9621,
-     "avgPrice": 0.54,
-     "curPrice": 0.545,
-     "currentValue": 10899.9793,
-     "cashPnl": 99.9997,
-     "percentPnl": 0.9259,
-     "endDate": "2026-10-23",
-     "conditionId": "0x36e95fdc10fb98ca9c098f280e92dc334bbdf3f19e3ab5867e098d89bea97aef"
-    },
     {
      "title": "Spread: Ravens (-5.5)",
      "slug": "nfl-bal-cle-2026-10-18-spread-away-5pt5",
@@ -3539,6 +3525,20 @@
      "percentPnl": 7.6925,
      "endDate": "2026-10-18",
      "conditionId": "0x15818e0c3ab44802107b7dcd1d72d7ce3cf37138d662b3d30af0c901a7984d3d"
+    },
+    {
+     "title": "Wuhan Tennis Open: Maja Chwalinska vs Maria Sakkari",
+     "slug": "wta-chwalin-sakkari-2026-10-15",
+     "eventSlug": "wta-chwalin-sakkari-2026-10-15",
+     "outcome": "Maria Sakkari",
+     "size": 19999.9621,
+     "avgPrice": 0.54,
+     "curPrice": 0.535,
+     "currentValue": 10699.9797,
+     "cashPnl": -99.9998,
+     "percentPnl": -0.9259,
+     "endDate": "2026-10-23",
+     "conditionId": "0x36e95fdc10fb98ca9c098f280e92dc334bbdf3f19e3ab5867e098d89bea97aef"
     },
     {
      "title": "Texans vs. Jaguars: O/U 42.5",
@@ -3636,8 +3636,8 @@
    "n": 3,
    "against": 0,
    "against_value": 0,
-   "volume": 5616414.187287997,
-   "liquidity": 3129861.1092,
+   "volume": 5616547.553604001,
+   "liquidity": 3131695.2757,
    "question": "2026 Balance of Power: D Senate, D House"
   },
   {
@@ -3676,8 +3676,8 @@
    "n": 3,
    "against": 0,
    "against_value": 0,
-   "volume": 1201019.6385300003,
-   "liquidity": 136967.5497,
+   "volume": 1201019.6385299999,
+   "liquidity": 135735.9669,
    "question": "Will Arsenal win the 2026-27 English Premier League (EPL) Championship?"
   },
   {
@@ -3716,8 +3716,8 @@
    "n": 3,
    "against": 0,
    "against_value": 0,
-   "volume": 2844389.945508999,
-   "liquidity": 2921906.7776,
+   "volume": 2844389.9455089993,
+   "liquidity": 2918918.3395,
    "question": "Will the Republican Party control the Senate after the 2026 Midterm elections?"
   },
   {
@@ -3726,38 +3726,38 @@
    "slug": "wta-svitoli-kartal-2026-10-16",
    "eventSlug": "wta-svitoli-kartal-2026-10-16",
    "outcome": "Elina Svitolina",
-   "curPrice": 0.52,
+   "curPrice": 0.585,
    "endDate": "2026-10-23",
    "holders": [
     {
      "name": "UpTheBlues",
      "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
      "rank": 6,
-     "value": 41051.0334,
-     "avg": 0.4657
-    },
-    {
-     "name": "omnibus-076daa",
-     "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-     "rank": 11,
-     "value": 12372.5768,
-     "avg": 0.5518
+     "value": 50956.6385,
+     "avg": 0.4838
     },
     {
      "name": "HomeRunHazard",
      "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
      "rank": 8,
-     "value": 8839.0886,
-     "avg": 0.4283
+     "value": 18708.2478,
+     "avg": 0.4843
+    },
+    {
+     "name": "omnibus-076daa",
+     "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+     "rank": 11,
+     "value": 13919.1489,
+     "avg": 0.5518
     }
    ],
-   "value": 62262.698800000006,
-   "cost": 57316.66690721,
+   "value": 83584.0352,
+   "cost": 70758.65378443,
    "n": 3,
    "against": 3,
-   "against_value": 46424.9862,
-   "volume": 664217.4848210001,
-   "liquidity": 128939.9611,
+   "against_value": 42521.8813,
+   "volume": 968885.7868529997,
+   "liquidity": 143574.5971,
    "question": "Wuhan Tennis Open: Elina Svitolina vs Sonay Kartal"
   },
   {
@@ -3766,38 +3766,38 @@
    "slug": "wta-svitoli-kartal-2026-10-16",
    "eventSlug": "wta-svitoli-kartal-2026-10-16",
    "outcome": "Sonay Kartal",
-   "curPrice": 0.48,
+   "curPrice": 0.415,
    "endDate": "2026-10-23",
    "holders": [
     {
      "name": "UpTheBlues",
      "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
      "rank": 6,
-     "value": 27525.2072,
-     "avg": 0.657
+     "value": 24533.5267,
+     "avg": 0.6477
     },
     {
      "name": "HomeRunHazard",
      "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
      "rank": 8,
-     "value": 16832.5054,
-     "avg": 0.4762
+     "value": 16201.0243,
+     "avg": 0.4612
     },
     {
      "name": "omnibus-076daa",
      "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
      "rank": 11,
-     "value": 2067.2736,
+     "value": 1787.3303,
      "avg": 0.6522
     }
    ],
-   "value": 46424.9862,
-   "cost": 56842.48257898,
+   "value": 42521.8813,
+   "cost": 59103.553019440005,
    "n": 3,
    "against": 3,
-   "against_value": 62262.6988,
-   "volume": 664217.4848210001,
-   "liquidity": 128939.9611,
+   "against_value": 83584.0352,
+   "volume": 968885.7868529997,
+   "liquidity": 143574.5971,
    "question": "Wuhan Tennis Open: Elina Svitolina vs Sonay Kartal"
   },
   {
@@ -3836,8 +3836,8 @@
    "n": 3,
    "against": 1,
    "against_value": 5297.5684,
-   "volume": 9858488.939952986,
-   "liquidity": 265825.1495,
+   "volume": 9859503.24227399,
+   "liquidity": 243874.7409,
    "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?"
   },
   {
@@ -3876,8 +3876,8 @@
    "n": 3,
    "against": 0,
    "against_value": 0,
-   "volume": 500029.2057740002,
-   "liquidity": 354048.5411,
+   "volume": 500029.2057740001,
+   "liquidity": 353963.6111,
    "question": "Will Dan Sullivan win the Alaska Senate race in 2026?"
   },
   {
@@ -3886,38 +3886,38 @@
    "slug": "wta-olmo-masarov-2026-10-15",
    "eventSlug": "wta-olmo-masarov-2026-10-15",
    "outcome": "Rebeka Masarova",
-   "curPrice": 0.423,
+   "curPrice": 0.4195,
    "endDate": "2026-10-22",
    "holders": [
     {
      "name": "UpTheBlues",
      "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
      "rank": 6,
-     "value": 7317.7354,
+     "value": 7257.1867,
      "avg": 0.625
     },
     {
      "name": "HomeRunHazard",
      "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
      "rank": 8,
-     "value": 6417.2255,
+     "value": 6364.1279,
      "avg": 0.865
     },
     {
      "name": "omnibus-076daa",
      "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
      "rank": 11,
-     "value": 2660.349,
+     "value": 2638.3367,
      "avg": 0.4457
     }
    ],
-   "value": 16395.3099,
+   "value": 16259.651300000001,
    "cost": 26738.06681884,
    "n": 3,
    "against": 2,
-   "against_value": 17017.5837,
-   "volume": 329731.0820300001,
-   "liquidity": 44461.95799,
+   "against_value": 17120.8099,
+   "volume": 329741.4155870001,
+   "liquidity": 61142.48373,
    "question": "Mallorca: Ane Mintegi Del Olmo vs Rebeka Masarova"
   },
   {
@@ -3957,48 +3957,8 @@
    "against": 1,
    "against_value": 2107.8626,
    "volume": 79637.039727,
-   "liquidity": 144853.8527,
+   "liquidity": 216358.863,
    "question": "Saints vs. Giants"
-  },
-  {
-   "conditionId": "0x8c88fc23c51b5eab59f480ddb3ea8b53d7e56ebed20682aeab8da657e2b29cc6",
-   "title": "Jinan: Tomas Machac vs Liam Draxl",
-   "slug": "atp-machac-draxl-2026-10-16",
-   "eventSlug": "atp-machac-draxl-2026-10-16",
-   "outcome": "Tomas Machac",
-   "curPrice": 0.695,
-   "endDate": "2026-10-23",
-   "holders": [
-    {
-     "name": "omnibus-076daa",
-     "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-     "rank": 11,
-     "value": 3876.8073,
-     "avg": 0.5399
-    },
-    {
-     "name": "UpTheBlues",
-     "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
-     "rank": 6,
-     "value": 1251.3614,
-     "avg": 0.7283
-    },
-    {
-     "name": "HomeRunHazard",
-     "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
-     "rank": 8,
-     "value": 1088.8495,
-     "avg": 0.5786
-    }
-   ],
-   "value": 6217.0182,
-   "cost": 5229.443336,
-   "n": 3,
-   "against": 2,
-   "against_value": 3766.3413,
-   "volume": 41170.992826,
-   "liquidity": 136508.4772,
-   "question": "Jinan: Tomas Machac vs Liam Draxl"
   },
   {
    "conditionId": "0x8cd09a9095e9450dbd9c1170927b63e6173cd6c554bfe006d89df3da18df99af",
@@ -4037,8 +3997,48 @@
    "against": 1,
    "against_value": 1340.6973,
    "volume": 10374.773618,
-   "liquidity": 15382.0632,
+   "liquidity": 16443.0497,
    "question": "UMass vs. Buffalo: O/U 41.5"
+  },
+  {
+   "conditionId": "0x8c88fc23c51b5eab59f480ddb3ea8b53d7e56ebed20682aeab8da657e2b29cc6",
+   "title": "Jinan: Tomas Machac vs Liam Draxl",
+   "slug": "atp-machac-draxl-2026-10-16",
+   "eventSlug": "atp-machac-draxl-2026-10-16",
+   "outcome": "Tomas Machac",
+   "curPrice": 0.465,
+   "endDate": "2026-10-23",
+   "holders": [
+    {
+     "name": "omnibus-076daa",
+     "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+     "rank": 11,
+     "value": 2593.8351,
+     "avg": 0.5399
+    },
+    {
+     "name": "UpTheBlues",
+     "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+     "rank": 6,
+     "value": 1068.3468,
+     "avg": 0.6724
+    },
+    {
+     "name": "HomeRunHazard",
+     "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+     "rank": 8,
+     "value": 728.5108,
+     "avg": 0.5786
+    }
+   ],
+   "value": 4390.6927,
+   "cost": 5462.977068,
+   "n": 3,
+   "against": 2,
+   "against_value": 7141.6187,
+   "volume": 48442.803776999994,
+   "liquidity": 100002.2753,
+   "question": "Jinan: Tomas Machac vs Liam Draxl"
   }
  ],
  "weekly_movers": [
@@ -4054,16 +4054,16 @@
    "rank": 2,
    "wallet": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
    "name": "BreakTheBank",
-   "pnl": 2917616.736961143,
-   "vol": 17850637.75124401,
+   "pnl": 2924353.3211051375,
+   "vol": 17854137.141574007,
    "in_month_pool": true
   },
   {
    "rank": 3,
    "wallet": "0x4f1d5ae26fc31472966e951af3183308736d8de2",
    "name": "e46m3",
-   "pnl": 867905.09593595,
-   "vol": 432294.96474600065,
+   "pnl": 869863.886398039,
+   "vol": 433056.60773200064,
    "in_month_pool": true
   },
   {
@@ -4086,8 +4086,8 @@
    "rank": 6,
    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
    "name": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
-   "pnl": 533834.9220594257,
-   "vol": 4858750.732055,
+   "pnl": 533813.5313874257,
+   "vol": 4898916.597835,
    "in_month_pool": false
   },
   {
@@ -4102,8 +4102,8 @@
    "rank": 8,
    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
    "name": "HomeRunHazard",
-   "pnl": 451812.9007136111,
-   "vol": 16696677.496687993,
+   "pnl": 452259.48190704704,
+   "vol": 16742648.496390993,
    "in_month_pool": true
   },
   {
@@ -4118,20 +4118,28 @@
    "rank": 10,
    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
    "name": "RN1",
-   "pnl": 370080.3798214421,
-   "vol": 31950297.03048202,
+   "pnl": 363726.7755646532,
+   "vol": 31984386.97607602,
    "in_month_pool": false
   },
   {
    "rank": 11,
    "wallet": "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223",
    "name": "Jsram",
-   "pnl": 352230.896344159,
+   "pnl": 352230.89634415903,
    "vol": 1505353.0927629997,
    "in_month_pool": false
   },
   {
    "rank": 12,
+   "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+   "name": "balthazar",
+   "pnl": 338290.95151677437,
+   "vol": 973222.1341129992,
+   "in_month_pool": false
+  },
+  {
+   "rank": 13,
    "wallet": "0x918b42a06ff25eaaa4a79eca9da6a9de46f4ea63",
    "name": "OhWhenTheReds",
    "pnl": 338118.9229332997,
@@ -4139,18 +4147,10 @@
    "in_month_pool": true
   },
   {
-   "rank": 13,
-   "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
-   "name": "balthazar",
-   "pnl": 336555.5851306374,
-   "vol": 965462.3226329992,
-   "in_month_pool": false
-  },
-  {
    "rank": 14,
    "wallet": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
    "name": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
-   "pnl": 333766.60907868,
+   "pnl": 333451.53350638,
    "vol": 1006937.4840389998,
    "in_month_pool": true
   },
@@ -4172,30 +4172,22 @@
   },
   {
    "rank": 17,
-   "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-   "name": "omnibus-076daa",
-   "pnl": 278741.81162117585,
-   "vol": 9191359.433860995,
-   "in_month_pool": true
-  },
-  {
-   "rank": 18,
    "wallet": "0xb0e74df9430a089aa102e2207af5fde1967439d2",
    "name": "0xb0e74DF9430A089Aa102e2207Af5fde1967439D2-1789545517033",
-   "pnl": 278178.55420628015,
+   "pnl": 280615.28249848506,
    "vol": 0,
    "in_month_pool": true
   },
   {
-   "rank": 19,
-   "wallet": "0x96489abcb9f583d6835c8ef95ffc923d05a86825",
-   "name": "anoin123",
-   "pnl": 267512.93514616165,
-   "vol": 730770.8449809998,
+   "rank": 18,
+   "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+   "name": "omnibus-076daa",
+   "pnl": 273209.0828110499,
+   "vol": 9240164.376819996,
    "in_month_pool": true
   },
   {
-   "rank": 20,
+   "rank": 19,
    "wallet": "0x7f7351b5ba33a4be08b7111911b227cdd82414f1",
    "name": "qiu3",
    "pnl": 266968.7308708,
@@ -4203,27 +4195,35 @@
    "in_month_pool": false
   },
   {
-   "rank": 21,
+   "rank": 20,
    "wallet": "0xdaef2be2a19ad331737d06545f85615b094554e9",
    "name": "PEYZ-BIGGEST-FAN",
-   "pnl": 265115.5525551946,
+   "pnl": 265133.5842038181,
    "vol": 1853231.9096269999,
    "in_month_pool": false
+  },
+  {
+   "rank": 21,
+   "wallet": "0x96489abcb9f583d6835c8ef95ffc923d05a86825",
+   "name": "anoin123",
+   "pnl": 263411.64383639244,
+   "vol": 731024.1236709999,
+   "in_month_pool": true
   },
   {
    "rank": 22,
    "wallet": "0x85f031d069de300055900c4055c1baeb6bde3f67",
    "name": "RJW1",
-   "pnl": 261322.20979336492,
-   "vol": 2894570.2830370003,
+   "pnl": 259327.43756956997,
+   "vol": 2895892.3630400007,
    "in_month_pool": false
   },
   {
    "rank": 23,
    "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
    "name": "Bigggggggg",
-   "pnl": 250239.72604728048,
-   "vol": 803946.3170049998,
+   "pnl": 250177.5205559012,
+   "vol": 808060.3313679998,
    "in_month_pool": true
   },
   {
@@ -4238,8 +4238,8 @@
    "rank": 25,
    "wallet": "0x6575759174ad221bba9947bc3f18750ec769b198",
    "name": "dromedaryy",
-   "pnl": 239456.69122984257,
-   "vol": 277117.254144,
+   "pnl": 239458.5729811155,
+   "vol": 277446.924455,
    "in_month_pool": false
   }
  ],
@@ -4266,7 +4266,7 @@
    "rank": 4,
    "name": "RN1",
    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-   "pnl": 13061703.608181
+   "pnl": 13070316.790794
   },
   {
    "rank": 5,

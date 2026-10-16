@@ -1,0 +1,5 @@
+__pycache__/
+*.png
+build_v1.py
+shot.py
+site/

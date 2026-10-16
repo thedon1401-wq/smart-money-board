@@ -1,0 +1,46 @@
+name: Refresh data & deploy Pages
+on:
+  schedule:
+    - cron: "17 */3 * * *"   # every 3 hours
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Fetch real Polymarket data & build site
+        run: ./refresh.sh
+      - name: Save dated snapshot to data/history/
+        run: |
+          ts=$(date -u +%Y-%m-%dT%H%MZ)
+          mkdir -p data/history
+          cp data/data.json "data/history/$ts.json"
+          git config user.name "smart-money-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/data.json data/history
+          git commit -m "data: snapshot $ts [skip ci]" || echo "nothing to commit"
+          git pull --rebase --autostash origin main || true
+          git push || echo "push failed (non-fatal)"
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with: { path: site }
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

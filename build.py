@@ -84,15 +84,15 @@ page=f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="
 <section class="charts"><div class="panel"><h4>Where top wallets have money</h4>{donut(catparts)}</div><div class="panel"><h4>30-day P&amp;L · top 10</h4>{pnl_chart}</div></section>
 <section id="movers" class="split2"><div class="panel"><div class="sh"><h2>Weekly movers</h2><p class="muted small">7-day P&amp;L. <span class="new">NEW</span> = outside the 30-day top {d["pool"]}.</p></div><ol class="mov">{mov}</ol></div>
 <div id="newsletter" class="panel nl"><h2>The Sunday Smart Money Brief</h2><p class="muted">One email a week: biggest consensus bets, new whales, notable exits. Free.</p>
-<form id="nlf"><input type="email" required placeholder="you@email.com" aria-label="Email"><button>Subscribe</button></form><p id="nlmsg" class="small muted">Placeholder form — not connected to a newsletter service yet.</p></div></section>
+<div class="bh"><script async src="https://subscribe-forms.beehiiv.com/v3/loader.js" data-beehiiv-form="53f07513-25ce-4f1f-ae64-07b540d0890d"></script></div><p class="small muted">Form not loading? <a href="https://tys-newsletter-d048bb.beehiiv.com" target="_blank" rel="noopener">Subscribe on beehiiv ↗</a></p></div></section>
 <section id="board"><div class="sh"><h2>Wallet leaderboard</h2><p class="muted">Ranked by 30-day P&amp;L. Tap a wallet to see open positions.</p></div><input id="q" placeholder="Search wallets…" aria-label="Search wallets"><div class="list">{wl}</div></section>
 <div class="sponsor" data-placeholder="sponsor">SPONSOR BANNER PLACEHOLDER · native slot</div>
 <a href="{AFF}" data-placeholder="affiliate" class="cta wide">New to Polymarket? Sign up here (AFFILIATE LINK PLACEHOLDER)</a>
 </main><footer class="wrap small muted">Data: Polymarket public APIs. Not financial advice. Past performance ≠ future results. Not affiliated with Polymarket.</footer>
 <script>
 document.getElementById('q').oninput=e=>{{const v=e.target.value.toLowerCase();document.querySelectorAll('.w').forEach(w=>w.style.display=w.dataset.name.includes(v)?'':'none')}};
-document.getElementById('nlf').onsubmit=e=>{{e.preventDefault();document.getElementById('nlmsg').textContent='Thanks! (demo only — nothing was sent or stored)';e.target.reset()}};
-</script></body></html>'''
+</script>
+<script type="text/javascript" async src="https://subscribe-forms.beehiiv.com/attribution.js"></script></body></html>'''
 css='''*{box-sizing:border-box}html{scroll-behavior:smooth;scroll-padding-top:72px}
 body{margin:0;background:#0a0d14;color:#e8ebf2;font:16px/1.6 Inter,system-ui,-apple-system,"Segoe UI",sans-serif;-webkit-font-smoothing:antialiased}
 a{color:#8ab4ff;text-decoration:none}.wrap{max-width:1080px;margin:0 auto;padding:0 20px}
@@ -128,7 +128,7 @@ details.more summary{cursor:pointer;color:#8b93a7;font-size:13px;list-style:none
 .mov{list-style:none;padding:0;margin:0}.mov li{display:flex;gap:12px;align-items:center;padding:12px 0;border-bottom:1px solid #1a2030}.mov li>span:last-child{margin-left:auto;font-weight:700}
 .rk{color:#5d667a;font-weight:700;min-width:24px;font-variant-numeric:tabular-nums}.up{color:#5fe3a1}.dn{color:#ff7b86}
 .new{background:#4b32d9;color:#fff;font-size:10px;padding:2px 6px;border-radius:5px;font-weight:700}
-.nl{background:linear-gradient(140deg,#12233f,#1a1236);border-color:#26305a}.nl h2{font-size:22px}
+.nl{background:linear-gradient(140deg,#12233f,#1a1236);border-color:#26305a}.nl h2{font-size:22px}.bh{margin:16px 0 8px;border-radius:12px;min-height:60px;width:100%;overflow:hidden}.bh iframe{max-width:100%!important}
 form{display:flex;gap:10px;margin-top:18px}input{flex:1;min-width:0;background:#0a0d14;border:1px solid #2a3350;color:#fff;padding:14px;border-radius:12px;font-size:16px}
 button{background:#5fe3a1;color:#06200f;border:0;font-weight:800;padding:0 22px;border-radius:12px;cursor:pointer;min-height:48px;font-size:15px}
 #q{width:100%;margin-bottom:16px}.list{display:flex;flex-direction:column;gap:10px}
